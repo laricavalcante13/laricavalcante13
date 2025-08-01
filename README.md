@@ -5,5 +5,5 @@
 <li>Bolsista de Iniciação Científica | PIC 2025</li>
 </UL>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62n0gkTKXHlzIDvXAd3-MHESSUhfB2A4shw&s" alt="htmlcssjs" width="100" height="70"/> </a> </p>
+<p align="left"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62n0gkTKXHlzIDvXAd3-MHESSUhfB2A4shw&s](https://thumbnail.imgbin.com/16/5/22/imgbin-html-world-wide-web-consortium-world-wide-web-H1tsfjhNjr5AM4eGecdgji0hW_t.jpg)" alt="htmlcssjs" width="80" height="80"/> </a> </p>
 
