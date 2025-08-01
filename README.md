@@ -5,7 +5,7 @@
   <li>Bolsista de Iniciação Científica | PIC 2025</li>
 <h3 align="left">Languages and Tools:</h3>
 </UL>
-  <li>HTML|CSS3</li>
+  <li>HTML5 | CSS3</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>Node.js</li>
