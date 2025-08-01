@@ -5,5 +5,5 @@
 <li>Bolsista de Iniciação Científica | PIC 2025</li>
 </UL>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="<img width="1052" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/0e6223c4-eac1-43b6-95dd-131dcd4461f6"/>" alt="js" width="80" height="80"/> </a> </p>
+<p align="left"> <img src="<img width="1052" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/0e6223c4-eac1-43b6-95dd-131dcd4461f6">
 
