@@ -2,7 +2,7 @@
 
 <UL>
   <li>Estudante de Análise e Desenvolvimento de Sistemas | Uninter 2024 - 2026</li>
-  <li>Bolsista de Iniciação Científica | PIC 2025</li>
+  <li>Bolsista de Iniciação Científica | Educação e Novas Tecnologias - 2025</li>
   <li>Analista de Tecnologia da Informação | Conselho Regional de Nutrição da 8ª região</li>
 </UL>
 <h3 align="left">Linguagens:</h3>
