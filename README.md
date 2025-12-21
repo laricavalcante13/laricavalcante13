@@ -6,7 +6,7 @@
   <li>Bolsista de Iniciação Científica | Educação e Novas Tecnologias - 2025</li>
   <li>Analista de Tecnologia da Informação | Conselho Regional de Nutrição da 8ª região</li>
 </UL>
-<h3 align="left">Linguagens:</h3>
+<h3 align="left">Linguagens/Frameworks:</h3>
 <UL>
   <li>HTML5 | CSS3</li>
   <li>JavaScript</li>
